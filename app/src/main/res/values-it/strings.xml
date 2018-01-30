@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">ChillBox</string>
+
+    <string name="navigation_drawer_open">Apri il cassetto di navigazione</string>
+    <string name="navigation_drawer_close">Chiudere il cassetto di navigazione</string>
+
+    <string name="action_settings">Impostazioni</string>
+    <string name="action_back">Indietro</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="api_key">AIzaSyBu6Lmo9_Q-OJCx6EgA3L5hI3mWWGsDWC8</string>
+
+    <string name="title_activity_gmaps_maps">Mappa</string>
+    <string name="no_geocoder_available">Nessun geocoder disponibile</string>
+    <string name="fetch_address">Recupera indirizzo</string>
+    <string name="address_found">Indirizzo trovato</string>
+
+    <string name="no_address_found">Siamo spiacenti, nessun indirizzo trovato</string>
+    <string name="no_location_data_provided">Nessun dato RealmCinemaLocation fornito</string>
+    <string name="service_not_available">Siamo spiacenti, il servizio non è disponibile</string>
+    <string name="invalid_lat_long_used">Latitudine o longitudine non valide utilizzate</string>
+
+
+    <string name="permission_rationale">L\'autorizzazione alla posizione è necessaria per le funzionalità di base</string>
+    <string name="permission_denied_explanation">L\'autorizzazione è stata negata, ma è necessaria per il nucleo
+         funzionalità.</string>
+
+    <string name="settings">Impostazioni</string>
+    <string name="search">Trova cinema vicino a te</string>
+    <string name="release_year">Anno di pubblicazione :</string>
+    <string name="overview">Panoramica:</string>
+    <string name="overview_unavailable">Non c\'è una panoramica per questo film</string>
+
+    <string name="anticipated_title">Film più attesi</string>
+    <string name="cinemas_title">Cinema locali</string>
+    <string name="movies_title">Film più riprodotti</string>
+    <string name="detail_title">Dettagli del film</string>
+    <string name="trending_title">Notizie di tendenza</string>
+
+    <string name="location_fetching">Recupero della posizione corrente!</string>
+    <string name="location_request">Si prega di abilitare servizi di localizzazione!</string>
+    <string name="current_location">Tu sei qui</string>
+    <string name="error_loading_info">Errore durante il caricamento delle informazioni</string>
+
+    <string name="video_unavailable">Video non disponibile</string>
+    <string name="runtime">Runtime :</string>
+    <string name="rating">Valutazione : %.1f/10</string>
+    <string name="minutes">minuti</string>
+
+    <string name="language_setting">Lingua</string>
+    <string name="spinner_dialog_title">Scelta di lingua</string>
+    <string name="spinner_dialog_message">Cambia lingua</string>
+
+    <!-- Language select dialog -->
+    <string-array name="lang_select">
+        <item>English</item>
+        <item>Italiano</item>
+    </string-array>
+
+    <string name="trending_news">Novità</string>
+    <string name="anticipated_movies">Anticipati</string>
+    <string name="most_watched_movies">Piú visti</string>
+    <string name="cinemas">Cinema</string>
+
+</resources>

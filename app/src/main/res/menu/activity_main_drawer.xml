@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_trending"
+            android:icon="@drawable/ic_menu_trending"
+            android:title="@string/trending_news" />
+        <item
+            android:id="@+id/nav_anticipated"
+            android:icon="@drawable/ic_menu_anticipated"
+            android:title="@string/anticipated_movies" />
+        <item
+            android:id="@+id/nav_movies"
+            android:icon="@drawable/ic_menu_movie"
+            android:title="@string/most_watched_movies" />
+        <item
+            android:id="@+id/nav_cinemas"
+            android:icon="@drawable/ic_menu_tv"
+            android:title="@string/cinemas" />
+
+        <!--<item-->
+            <!--android:id="@+id/nav_updated"-->
+            <!--android:icon="@drawable/ic_menu_update"-->
+            <!--android:title="Updated" />-->
+
+    </group>
+</menu>
